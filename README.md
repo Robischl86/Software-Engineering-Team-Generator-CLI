@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Software Engineering Team Generator CLI
 This project was created by Robischl86
 ## Table of Contents
